@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ExamenPractico\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\user\source\repos\ExamenPractico\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\user\source\repos\ExamenPractico\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\user\source\repos\ExamenPractico\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ExamenPractico\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ExamenPractico\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\user\source\repos\ExamenPractico\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExamenPractico\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\user\source\repos\ExamenPractico\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
